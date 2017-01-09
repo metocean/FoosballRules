@@ -24,4 +24,4 @@ However, if the ball gets stuck anywhere else, it is to be re-served by the play
 
 Have fun and do cool stuff
 
-No spinning
+No spinning, this is because it damages the table.
